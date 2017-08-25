@@ -1,0 +1,13 @@
+{
+  "name": "js30-01",
+  "version": "1.0.0",
+  "description": "JavaScript30 - 30 Day JavaScript Challenge - Day 1",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "keywords": [],
+  "author": "Rory Zoerb",
+  "license": "ISC"
+}
